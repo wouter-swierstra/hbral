@@ -1,2 +1,2 @@
-# hral
-Hetergeneous binary random-access lists
+# hbral
+A library ofr hetergeneous binary random-access lists
